@@ -9,7 +9,7 @@ object StreamWork {
   val Sr: Array[KeyPoint] = new Array[KeyPoint](N)
   var maxTer: Int = 0
 
-  private val fullPath = "C:\\Users\\bogdan_baran\\Desktop\\graphs\\src\\main\\scala\\"
+  private val fullPath = "C:\\Users\\Desktop\\graphs\\src\\main\\scala\\"
 
   def fillThread(): Seq[Stream] = {
 
