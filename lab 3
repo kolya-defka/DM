@@ -1,6 +1,6 @@
-package com.bogdan.salesman_lab3
+package com.yulia.salesman_lab3
 
-import com.bogdan.{Edge, Graph}
+import com.yulia.{Edge, Graph}
 
 import scala.collection.mutable.ListBuffer
 import scala.util.Random
