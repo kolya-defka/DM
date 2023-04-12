@@ -1,4 +1,4 @@
-package com.bogdan.streams_lab4
+package com.yulia.streams_lab4
 
 import scala.collection.mutable.ListBuffer
 import scala.io.Source
