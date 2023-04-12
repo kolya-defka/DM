@@ -1,6 +1,3 @@
-тpackage com.bogdan.prim_lab1
-
-
 import com.bogdan.{Edge, Graph}
 
 import scala.collection.mutable.ListBuffer
