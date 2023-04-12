@@ -1,3 +1,5 @@
+package com.yulia.prim_lab1
+
 import com.yulia.{Edge, Graph}
 
 import scala.collection.mutable.ListBuffer
