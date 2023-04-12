@@ -1,3 +1,5 @@
+package com.yulia.postman_lab2
+
 import com.yulia.{Edge, Graph}
 
 import scala.collection.mutable.ListBuffer
