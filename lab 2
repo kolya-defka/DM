@@ -1,6 +1,4 @@
-package com.bogdan.postman_lab2
-
-import com.bogdan.{Edge, Graph}
+import com.yulia.{Edge, Graph}
 
 import scala.collection.mutable.ListBuffer
 
