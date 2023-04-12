@@ -1,4 +1,4 @@
-import com.bogdan.{Edge, Graph}
+import com.yulia.{Edge, Graph}
 
 import scala.collection.mutable.ListBuffer
 
